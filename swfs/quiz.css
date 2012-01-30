@@ -1,0 +1,100 @@
+.question {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#d7d7d7;
+}
+
+.feedback {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color:#4d4d4d;
+}
+
+.distractor {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color:#666666;
+}
+
+.buttontext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color:#FFFFFF;
+}
+
+.steptext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#000000;
+}
+
+.questioncount {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#000000;
+}
+
+.introtitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align:center;
+	color:#333333;
+}
+
+.introtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#333333;
+}
+
+.target {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-align:center;
+	color:#333333;
+}
+
+.dragtitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#999999;
+	font-weight: bold;
+}
+
+.dragtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#666666;
+}
+
+.resultvalue {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#999999;
+}
+
+.success {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#006633;
+	text-align:center;
+	font-weight: bold;
+}
+
+.failure {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#990000;
+	text-align:center;
+	font-weight: bold;
+}
+
+.message {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#000000;
+	text-align:center;
+}

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossary tracking="none" xmlns="www.rapidintake.com/xmlgrammars/fc/glossary">
+  <letter text="*"/>
+  <letter text="A">
+    <term text="Activity Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A code used to identify a status, action taken, or disposition of an account that has been worked by staff.&lt;/P&gt;</definition>
+      <definition>&lt;P ALIGN="LEFT"&gt;A code used to identify a status, action taken, or disposition of an account that has been worked by staff.&lt;/P&gt;</definition>
+    </term>
+    <term text="Add On">
+      <definition>&lt;P ALIGN="LEFT"&gt;Any service or supply that is billed and reimbursed in addition to the basic reimbursement for the case, such as an implant during surgery or high cost drugs.&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;/P&gt;</definition>
+    </term>
+    <term text="Administrative Services Organization (ASO)">
+      <definition>&lt;P ALIGN="LEFT"&gt;A contract between an insurance company and a self-funded plan where the insurance company performs administrative services only and the self-funded entity assumes all risk.&lt;/P&gt;</definition>
+    </term>
+    <term text="Admission-Discharge-Transfer system">
+      <definition>&lt;P ALIGN="LEFT"&gt;Admission, Discharge, Transfer (ADT) is a set of patient account activities which focus on the capture and accurate maintenance of patient information for billing purposes. Admitting includes the capture and verification of information during visit preparation. Discharge includes all end-of-visit activities. The transfer process includes the movement of a patient, along with their secure information, from one area or hospital to another. Hospitals typically use an ADT system such as Eagle to facilitate the execution of these activities.&lt;/P&gt;</definition>
+    </term>
+    <term text="Admit Face Sheet">
+      <definition>&lt;P ALIGN="LEFT"&gt;Document that contains important patient information such as demographics, insurance information, and procedural information. It is used during registration.&lt;/P&gt;</definition>
+    </term>
+    <term text="Admit Sheet">
+      <definition>&lt;P ALIGN="LEFT"&gt;Document that contains important patient information such as demographics, insurance information, and procedural information. It is used during registration.&lt;/P&gt;</definition>
+    </term>
+    <term text="Adolescent Screen">
+      <definition>&lt;P ALIGN="LEFT"&gt;The Adolescent Screen form is completed by patients under the age of 19 to gather information regarding medications, pains, and concerns. This form is then given to the physician to review. This may also be known as a questionnaire.&lt;/P&gt;</definition>
+    </term>
+    <term text="ADT System">
+      <definition>&lt;P ALIGN="LEFT"&gt;Instructions given by individuals specifying what actions should be taken for their health in the event that they are no longer able to make decisions due to illness or incapacity.&lt;/P&gt;</definition>
+    </term>
+    <term text="Adult Screen Form">
+      <definition>&lt;P ALIGN="LEFT"&gt;The Adult Screen form is completed by the patient to gather information regarding medications, pains, and concerns. This form is then given to the physician to review. This may also be known as a questionnaire.&lt;/P&gt;</definition>
+    </term>
+    <term text="Advance Beneficiary Notice (ABN)">
+      <definition>&lt;P ALIGN="LEFT"&gt;A written notice from Medicare provided to a patient before receiving certain items or services, notifying the patient that Medicare may deny payment for that specific procedure or treatment and he/she will be personally responsible for full payment if Medicare denies payment.&lt;/P&gt;</definition>
+    </term>
+    <term text="Advanced Directives">
+      <definition>&lt;P ALIGN="LEFT"&gt;Instructions given by individuals specifying what actions should be taken for their health in the event that they are no longer able to make decisions due to illness or incapacity.&lt;/P&gt;</definition>
+    </term>
+    <term text="After Visit Summary">
+      <definition>&lt;P ALIGN="LEFT"&gt;The primary service capture vehicle for hospital based clinics.  A typical After Visit Summary will include a set of ICD-9 diagnosis codes to capture a patient&amp;apos;s medical condition and a set of CPT4 codes to capture procedures performed.  The form is generally completed by the treating physician and the selected codes are subsequently entered into the hospital&amp;apos;s information system by clinic staff as part of the procedure for closing a visit. &lt;/P&gt;</definition>
+    </term>
+    <term text="Allowed Amount">
+      <definition>&lt;P ALIGN="LEFT"&gt;Maximum dollar amount assigned for a procedure based on various pricing mechnisms. Also known as a maximum allowable.&lt;/P&gt;</definition>
+    </term>
+    <term text="Ambulance Call Record">
+      <definition>&lt;P ALIGN="LEFT"&gt;A form completed by Emergency Medical Technicians (EMT) for patients that require ambulance transportation to a hospital. It documents patient information, pick up and delivery locations, and medical services rendered during the transport. May be used by registrars in the Emergency Department to initiate registration activities.&lt;/P&gt;</definition>
+    </term>
+    <term text="Ancillary Services">
+      <definition>&lt;P ALIGN="LEFT"&gt;Professional charges for x-ray, laboratory tests, and other similar patient services.&lt;/P&gt;</definition>
+    </term>
+    <term text="Assignment of Benefits (AOB) form">
+      <definition>&lt;P ALIGN="LEFT"&gt;The patient&amp;apos;s signed permission for the provider to be paid directly, rather than sending payment to the patient.&lt;/P&gt;</definition>
+    </term>
+    <term text="Attending Physician">
+      <definition>&lt;P ALIGN="LEFT"&gt;A physician who has completed residency and practices medicine in a clinic or hospital, in a specialty learned during residency. He or she supervises residents and medical students.&lt;/P&gt;</definition>
+    </term>
+    <term text="Audit">
+      <definition>&lt;P ALIGN="LEFT"&gt;A formal examination of an organization&amp;apos;s or an individual&amp;apos;s records often for the purpose of uncovering fraud. &lt;/P&gt;</definition>
+    </term>
+    <term text="Average Wholesale Price (AWP)">
+      <definition>&lt;P ALIGN="LEFT"&gt;Commonly used in pharmacy contracting, the AWP is generally determined through reference to a common source of information.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="B">
+    <term text="Balance Billing">
+      <definition>&lt;P ALIGN="LEFT"&gt;The practice of billing a patient for the fee amount remaining after insurer payment and co-payment have been made.&lt;/P&gt;</definition>
+    </term>
+    <term text="Beneficiary (Also eligible; enrollee; member)">
+      <definition>&lt;P ALIGN="LEFT"&gt;Any person eligible as either a subscriber or a dependent for a managed care service in accordance with a contract.&lt;/P&gt;</definition>
+    </term>
+    <term text="Benefit Limitations">
+      <definition>&lt;P ALIGN="LEFT"&gt;Any provision, other than an exclusion, which restricts coverage in the Evidence of Coverage, regardless of medical necessity.&lt;/P&gt;</definition>
+    </term>
+    <term text="Benefit Package">
+      <definition>&lt;P ALIGN="LEFT"&gt;The services a payer offers to a group or individual.&lt;/P&gt;</definition>
+    </term>
+    <term text="Benefits">
+      <definition>&lt;P ALIGN="LEFT"&gt;A set of clinical and financial coverage parameters (need a simpler word than parameter.&lt;/P&gt;</definition>
+    </term>
+    <term text="Bill Type">
+      <definition>&lt;P ALIGN="LEFT"&gt;A healthcare industry standard three digit numeric number that identifies the type of claim being submitted to and considered for payment by a third party.  The first digit is an indication of setting/type of facility, the second digit is a more detailed classification of that setting also indicating the type/level of service, and the third digit defining the manner in which the claim should be evaluated for processing.  &lt;/P&gt;</definition>
+    </term>
+    <term text="Bill Plan Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A three-digit code that indicates the insurance carrier who will be responsible for service rendered. This three-digit code can be obtained from the Financial Class Codes cross-walk. Is also known as Financial Class Code and Carrier Code.&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="C">
+    <term text="Canned Note">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a pre-defined annotation that can be used to document activity in Eagle GNE.&lt;/P&gt;</definition>
+    </term>
+    <term text="CareMedic">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is an online application that manages remittance, denial worklists, and scanned documents.&lt;/P&gt;</definition>
+    </term>
+    <term text="CareMedic Document Search">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is part of the CareMedic online system that manages scanned documents. Isuite&amp;apos;s Document Search is a key resource for reviewing all documents related to an account.&lt;/P&gt;</definition>
+    </term>
+    <term text="Carrier">
+      <definition>&lt;P ALIGN="LEFT"&gt;An insurer; an underwriter of risk.&lt;/P&gt;</definition>
+    </term>
+    <term text="Carveout">
+      <definition>&lt;P ALIGN="LEFT"&gt;Medical services that are separated from a contract and paid under a different arrangement.&lt;/P&gt;</definition>
+    </term>
+    <term text="Case Mix">
+      <definition>&lt;P ALIGN="LEFT"&gt;The types of inpatients a hospital or post acute facility treats. The more complex the patient&amp;apos;s needs, the greater the amount spent for patient care.&lt;/P&gt;</definition>
+    </term>
+    <term text="Case rate">
+      <definition>&lt;P ALIGN="LEFT"&gt;Flat fee paid for a client&amp;apos;s treatment based on their diagnosis and/or presenting problem. For this fee the provider covers all of the services the client requires for a specific period of time. Also bundled rate, or Flat Fee-Per-Case.&lt;/P&gt;</definition>
+    </term>
+    <term text="Case-mix Index">
+      <definition>&lt;P ALIGN="LEFT"&gt;A measure of the relative costlines of treating in an inpatient setting. An index of 1.05 means that the facility&amp;apos;s patients are 5% more costly than average.&lt;/P&gt;</definition>
+    </term>
+    <term text="Charge Based Rate">
+      <definition>&lt;P ALIGN="LEFT"&gt; Charge based reimbursement establishes a prorated payment amount generally calculated as a percentage of charge or cost for either individual services provided during a patient encounter or for the encounter as a whole.&lt;/P&gt;</definition>
+    </term>
+    <term text="Charge Description Master">
+      <definition>&lt;P ALIGN="LEFT"&gt;A listing of charge codes that identify all services, supplies, tests, procedures, and treatments a hospital provides.&lt;/P&gt;</definition>
+    </term>
+    <term text="Charity Care">
+      <definition>&lt;P ALIGN="LEFT"&gt;A term that encompasses all activities intended to maximize the likelihood of a medical claim being reimbursed through some form of adjudication.  Activities for claims covered by third party insurance include insurance verification, service authorization, and medical necessity screening.  Activities for claims in which the patient or patient&amp;apos;s guarantor is responsible for payment include charity care and Medicaid application processing and charge estimation.&lt;/P&gt;</definition>
+    </term>
+    <term text="Charity Care/Financial Aid Policy">
+      <definition>&lt;P ALIGN="LEFT"&gt;The Charity Care/Financial Aid Policy summary informs patients about the availability of charity care to assist patients who receive health care services at our hospital and are in need of financial aid, regardless of age, gender, race, national origin, socio-economic or immigrant status, sexual orientation or religious affiliation.&lt;/P&gt;</definition>
+    </term>
+    <term text="Chief complaint">
+      <definition>&lt;P ALIGN="LEFT"&gt;The patient described symptom, problem, or malady for which the he/she is seeking treatment.&lt;/P&gt;</definition>
+    </term>
+    <term text="Chronic Care">
+      <definition>&lt;P ALIGN="LEFT"&gt;Long term care of individuals with long standing, persistent diseases or conditions. It includes care specific to the problem as well as other measures to encourage self-care, to promote health, and to prevent loss of function.&lt;/P&gt;</definition>
+    </term>
+    <term text="Claims Review (Medical Necessity)">
+      <definition>&lt;P ALIGN="LEFT"&gt;The method by which an enrollee&amp;apos;s health care service claims are reviewed prior to reimbursement. The purpose is to validate the medical necessity of the provided services and to be sure the cost of the service is not excessive.&lt;/P&gt;</definition>
+    </term>
+    <term text="Client code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A numeric code that identifies the location of the ordering physician.&lt;/P&gt;</definition>
+    </term>
+    <term text="Client Services">
+      <definition>&lt;P ALIGN="LEFT"&gt;A department within the lab department that handles patient information discrepancies.&lt;/P&gt;</definition>
+    </term>
+    <term text="Clinic ID">
+      <definition>&lt;P ALIGN="LEFT"&gt;ADT system code used to classify a more specific type and/or location of service being provided.&lt;/P&gt;</definition>
+    </term>
+    <term text="Clinic TRAC">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a software tool for revenue cycle that is used to manage NYP\&amp;apos;s clinic account receivable pre-billing. Primarily used by NYP\&amp;apos;s Ambulatory Care Network clinics.&lt;/P&gt;</definition>
+    </term>
+    <term text="Co-insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;A form of coinsurance, a copayment is a standard payment defined in the insurance policy and paid by the insured person each time a specific medical service is accessed.&lt;/P&gt;</definition>
+    </term>
+    <term text="Co-insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;A form of coinsurance, a copayment is a standard payment defined in the insurance policy and paid by the insured person each time a specific medical service is accessed.&lt;/P&gt;</definition>
+    </term>
+    <term text="Co-payment">
+      <definition>&lt;P ALIGN="LEFT"&gt;A form of coinsurance, a copayment is a standard payment defined in the insurance policy and paid by the insured person each time a specific medical service is accessed.&lt;/P&gt;</definition>
+    </term>
+    <term text="Commercial Insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a broad category that includes any type of health benefit that is not obtained from the state or federal government.  Commercial insurance may be employer sponsored or privately purchased.&lt;/P&gt;</definition>
+    </term>
+    <term text="Comorbid Condition">
+      <definition>&lt;P ALIGN="LEFT"&gt;A medical condition that, along with the principal diagnosis, exists at admission and is expected to increase hospital length of stay by at least one day for most patients.&lt;/P&gt;</definition>
+    </term>
+    <term text="Complication">
+      <definition>&lt;P ALIGN="LEFT"&gt;A medical condition that arises during a course of treatment and is expected to increase the length of stay by at least one day for most patients.&lt;/P&gt;</definition>
+    </term>
+    <term text="Comprehensive Major Medical Insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;A policy designed to provide the protection offered by both a basic and major medical health insurance policy. It is generally characterized by a low deductible, a co-insurance feature, and high maximum benefits.&lt;/P&gt;</definition>
+    </term>
+    <term text="Concurrent Review">
+      <definition>&lt;P ALIGN="LEFT"&gt;Review of a procedure or hospital admission done by a health care professional (usually a nurse) other than the one providing the care.&lt;/P&gt;</definition>
+    </term>
+    <term text="Consult">
+      <definition>&lt;P ALIGN="LEFT"&gt;A form completed by the referring physician describing the reason for the follow up appointment.&lt;/P&gt;</definition>
+    </term>
+    <term text="Continued Stay Review">
+      <definition>&lt;P ALIGN="LEFT"&gt;A review conducted by an internal or external auditor to determine if the current place of service is still the most appropriate to provide the level of care required by the client.&lt;/P&gt;</definition>
+    </term>
+    <term text="Contract Provider">
+      <definition>&lt;P ALIGN="LEFT"&gt;Any hospital, skilled nursing facility, extended care facility, individual, organization, or agency licenced that has a contractual arrangement with an insurer for the provision of services under an insurance contract.&lt;/P&gt;</definition>
+    </term>
+    <term text="Contract Year">
+      <definition>&lt;P ALIGN="LEFT"&gt;A period of twelve (12) consecutive months, commencing with each Anniversary Date. May or may not coincide with a calendar year.&lt;/P&gt;</definition>
+    </term>
+    <term text="Contractual Adjustment">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is an allowance made to reduce or increase the balance due to the amount an insurance company has contracted with a provider for a service.  Contractual adjustments are only made on services covered by a contracted insurance company.&lt;/P&gt;</definition>
+    </term>
+    <term text="Coordination of Benefits (COB)">
+      <definition>&lt;P ALIGN="LEFT"&gt;The procedures set forth in a Subscription Agreement to determine which coverage is primary for payment of benefits to Members with duplicate coverage.&lt;/P&gt;</definition>
+    </term>
+    <term text="Coordination of Benefits COB">
+      <definition>&lt;P ALIGN="LEFT"&gt;The procedures set forth in a subscription agreement to determine which coverage is primary for payment of benefits to Members with duplicate coverage.&lt;/P&gt;</definition>
+    </term>
+    <term text="Copay">
+      <definition>&lt;P ALIGN="LEFT"&gt;A small fixed amount required by a health insurer to be paid by the insured.  Copay balances typically apply to inpatient, outpatient and pharmaceutical charges.&lt;/P&gt;</definition>
+    </term>
+    <term text="Cost Outlier">
+      <definition>&lt;P ALIGN="LEFT"&gt;A case in which costs/charges exceed the allowable amount for the specific diagnosis or treatment. The outlier amount is typically specified in advance in the contract between the provider and payer. Billed per diem (days after the trim date).&lt;/P&gt;</definition>
+    </term>
+    <term text="Coverage">
+      <definition>&lt;P ALIGN="LEFT"&gt;Health care services provided or authorized by the payer&amp;apos;s Medical Staff or payment for health care services.&lt;/P&gt;</definition>
+    </term>
+    <term text="CPT4 code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A listing of descriptive terms and five-digit numeric identifying codes and modifiers for reporting medical services performed by physicians. This computer program includes CPT-4 descriptive terms, numeric identifying codes, and modifiers for reporting medical services and procedures that were selected by 3M for inclusion in its HCPCS/ CPT software.&lt;/P&gt;</definition>
+    </term>
+    <term text="CPT4 Procedure Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A five-digit numeric code used to describe a medical procedure, test, or exam.&lt;/P&gt;</definition>
+    </term>
+    <term text="CPT4 codes">
+      <definition>&lt;P ALIGN="LEFT"&gt;A five-digit numeric code used to describe a medical procedure, test, or exam. &lt;/P&gt;</definition>
+    </term>
+    <term text="Credentialling">
+      <definition>&lt;P ALIGN="LEFT"&gt;The process of reviewing a practitioners credentials, i.e., training, experience, or demonstrated ability, for the purpose of determining if criteria for clinical privileging are met.&lt;/P&gt;</definition>
+    </term>
+    <term text="Credit Balance">
+      <definition>&lt;P ALIGN="LEFT"&gt;A credit balance is any account in which total payments and/or total adjustments are greater than the total charges resulting in a negative accounts receivable amount. &lt;/P&gt;</definition>
+    </term>
+    <term text="Current Procedural Terminology (CPT)">
+      <definition>&lt;P ALIGN="LEFT"&gt;A standardized mechanism of reporting services using numeric codes assigned to every task and service a medical practitioner may provide to a patient as established and updated annually by the AMA.  These codes ensure uniformity and are used in Physician Billing.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="D">
+    <term text="Daily Schedule (Radiology)"/>
+    <term text="Day Outlier">
+      <definition>&lt;P ALIGN="LEFT"&gt;A patient with an atypically long length of stay compared with other patients in a particular diagnosis related group.&lt;/P&gt;</definition>
+    </term>
+    <term text="Debit Balance">
+      <definition>&lt;P ALIGN="LEFT"&gt;A debit balance is any patient&amp;apos;s account that has a positive dollar amount due from a payer or a guarantor.&lt;/P&gt;</definition>
+    </term>
+    <term text="Deductible">
+      <definition>&lt;P ALIGN="LEFT"&gt;The amount you have to pay out-of-pocket for expenses before the insurance company will cover the remaining costs.&lt;/P&gt;</definition>
+    </term>
+    <term text="Deferral">
+      <definition>&lt;P ALIGN="LEFT"&gt;Deferring an approval or denial until additional/missing documentation is provided.&lt;/P&gt;</definition>
+    </term>
+    <term text="Denial">
+      <definition>&lt;P ALIGN="LEFT"&gt;A denial is an insurance companies formal rejection of a medical services claim submitted for payment by the hospital.&lt;/P&gt;</definition>
+    </term>
+    <term text="Diagnosis Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A 6 digit number that is used for medical coding purposes.&lt;/P&gt;</definition>
+    </term>
+    <term text="Diagnostic Related Group (DRG)">
+      <definition>&lt;P ALIGN="LEFT"&gt;An inpatient classification system that links combinations of medical diagoses and procedures into a single coding structure that serves as a basis for inpatient reimbursement to hositals.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="E">
+    <term text="E Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a code that defines external causes of injury and where they occurred.  E codes are used for transport accidents, poisoning and adverse effects of drugs, medicinal substances and biologicals, accidental falls, accidents caused by fire and flames, accidents due to natural and environmental factors, late effects of accidents, assaults or self injury, assaults or purposely inflicted injury, suicide or self inflicted injury.  E codes are supplemental to the assignment of ICD-9-CM diagnosis codes and, as such, are never to be used as the principal or first-listed diagnosis.. &lt;/P&gt;</definition>
+    </term>
+    <term text="E-Track">
+      <definition>&lt;P ALIGN="LEFT"&gt;The primary work driver of the ED registration process. The E-Track application is used to notify employees of a patient&amp;apos;s status and location in the registration process.&lt;/P&gt;</definition>
+    </term>
+    <term text="Eagle">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is the system that manages NYP&amp;apos;s entire revenue cycle.&lt;/P&gt;</definition>
+    </term>
+    <term text="Eagle Account Summary ARI/IAR">
+      <definition>&lt;P ALIGN="LEFT"&gt;Account Summary is a global view of the revenue cycle life of an account. An account consists of a summary of claims that tell a story about each visit. Each claim contains details that correlate with the services that were provided.  On the claim level, Account Summary is linked to other Eagle functions that contain vital details of the story. The functions that contain the details include but are not limited to charges, remittance, demographics, general notes entry, claims manager etc..  Account Summary is the key resource for account adjudication.&lt;/P&gt;</definition>
+    </term>
+    <term text="Eagle Insurance Verification EVM/VER">
+      <definition>&lt;P ALIGN="LEFT"&gt;Eagle Electronic Verification is a system that provides instant online insurance eligibility information from 15 major insurance carriers such as Medicare, Blue Cross, Medicaid, and the most common Commercial Managed Care Carriers.&lt;/P&gt;</definition>
+    </term>
+    <term text="Eagle Related Parties RPF">
+      <definition>&lt;P ALIGN="LEFT"&gt;A database element in NYP&amp;apos;s admission-discharge-transfer (ADT) system (Eagle) that associates key personal, demographic, and insurance information to a specific patient profile. Related Parties contains the following sections: Related Parties, Name Alias, Employment, Temporary Address, Insurance ID, Insurance Contacts, Previous Stay Information, Accident Data, Therapy Specs, Medicare Data, Medicaid Data. Related party records are attached to specific visit encounters from the patient&amp;apos;s master profile through a system action known as linking.&lt;/P&gt;</definition>
+    </term>
+    <term text="Eclipsys">
+      <definition>&lt;P ALIGN="LEFT"&gt;A system that contains electronic medical records.&lt;/P&gt;</definition>
+    </term>
+    <term text="Electronic medical chart">
+      <definition>&lt;P ALIGN="LEFT"&gt;A patient&amp;apos;s medical record in a digital format.&lt;/P&gt;</definition>
+    </term>
+    <term text="Electronic Medical Record">
+      <definition>&lt;P ALIGN="LEFT"&gt;A patient&amp;apos;s medical record in a digital format.&lt;/P&gt;</definition>
+    </term>
+    <term text="Electronic Mediciad Eligibility Verification System">
+      <definition>&lt;P ALIGN="LEFT"&gt;An online eligibility verification tool in the Eagle ADT system that is used to check a patient&amp;apos;s medical coverage and eligibility status with New York State Medicaid.&lt;/P&gt;</definition>
+    </term>
+    <term text="Eligibility">
+      <definition>&lt;P ALIGN="LEFT"&gt;Active membership under a third party insurance company policy for a given date of service.&lt;/P&gt;</definition>
+    </term>
+    <term text="Eligibility verification application">
+      <definition>&lt;P ALIGN="LEFT"&gt;The process of obtaining verbal or written confirmation of required coverage from an insurance company.&lt;/P&gt;</definition>
+    </term>
+    <term text="Emergency Medical Treatment and Active Labor Act (EMTALA)">
+      <definition>&lt;P ALIGN="LEFT"&gt;A statute which governs when and how a patient may be (1) refused treatment or (2) transferred from one hospital to another when he is in an unstable medical condition. &lt;/P&gt;</definition>
+    </term>
+    <term text="EMPI">
+      <definition>&lt;P ALIGN="LEFT"&gt;Master Patient Indexes which link several smaller organization level patient indexes.&lt;/P&gt;</definition>
+    </term>
+    <term text="Encounter">
+      <definition>&lt;P ALIGN="LEFT"&gt;A term synonomous with any patient visit to the health care facility.&lt;/P&gt;</definition>
+    </term>
+    <term text="Enrollee (Also beneficiary; individual; member)">
+      <definition>&lt;P ALIGN="LEFT"&gt;Any person eligible as either a subscriber or a dependent for service in accordance with a contract.&lt;/P&gt;</definition>
+    </term>
+    <term text="Enterprise Master Patient Index (EMPI)">
+      <definition>&lt;P ALIGN="LEFT"&gt;Master Patient Indexes which link several smaller organization level patient indexes.&lt;/P&gt;</definition>
+    </term>
+    <term text="Exclusions">
+      <definition>&lt;P ALIGN="LEFT"&gt;Clauses in an insurance contract that deny coverage for select individuals, groups, locations, properties or risks.&lt;/P&gt;</definition>
+    </term>
+    <term text="Explanation Of Benefits (EOB)">
+      <definition>&lt;P ALIGN="LEFT"&gt;An explanation of benefits is a summary from the payer that indicates how a claim was processed.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="F">
+    <term text="FACE sheet">
+      <definition>&lt;P ALIGN="LEFT"&gt;A document created at the time of admission to the ED containing a patient&amp;apos;s demographic and financial information for the hospital&amp;apos;s use.&lt;/P&gt;</definition>
+    </term>
+    <term text="Fee Scheduled">
+      <definition>&lt;P ALIGN="LEFT"&gt;A listing of accepted fees or established allowances for specified medical procedures. As used in medical care plans, it usually represents the maximum amounts the program will pay for the specified procedures.&lt;/P&gt;</definition>
+    </term>
+    <term text="Financial Class Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A three-digit code that indicates the insurance carrier who will be responsible for service rendered. This three-digit code can be obtained from the Financial Class Codes cross-walk and/or the financial class listing. Is also known as Bill Plan Code and Carrier Code.&lt;/P&gt;</definition>
+    </term>
+    <term text="Financial Class Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A three-digit code that indicates the insurance carrier who will be responsible for service rendered. This three-digit code can be obtained from the Financial Class Codes cross-walk. Is also known as Bill Plan Code and Carrier Code.&lt;/P&gt;</definition>
+    </term>
+    <term text="Financial Class Listing">
+      <definition>&lt;P ALIGN="LEFT"&gt;A listing that contains the financial class codes and the insurances plans associated.&lt;/P&gt;</definition>
+    </term>
+    <term text="Financial number">
+      <definition>&lt;P ALIGN="LEFT"&gt;A unique transaction number generated by Eagle and/or Cerner.&lt;/P&gt;</definition>
+    </term>
+    <term text="Financially cleared">
+      <definition>&lt;P ALIGN="LEFT"&gt;A term that encompasses all activities intended to maximize the likelihood of a medical claim being reimbursed through some form of adjudication. Activities for claims covered by third party insurance include insurance verification, service authorization, and medical necessity screening. Activities for claims in which the patient or patient&amp;apos;s guarantor is responsible for payment include charity care and Medicaid application processing and charge estimation.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="G">
+    <term text="General Notes Entry">
+      <definition>&lt;P ALIGN="LEFT"&gt;A function contained within the hospital&amp;apos;s ADT and billing system (Eagle) used to document any and all activity related to a patient encounter.&lt;/P&gt;</definition>
+    </term>
+    <term text="Grievance Procedures">
+      <definition>&lt;P ALIGN="LEFT"&gt;The process by which an insured can air complaints and seek remedies.&lt;/P&gt;</definition>
+    </term>
+    <term text="Guarantor">
+      <definition>&lt;P ALIGN="LEFT"&gt;This is the person responsible for any bills that are not covered by insurance.  Usually this will be the patient themselves, if they are over the age of 18.  For children, the guarantor will always be an adult – either a parent or caretaker.  The only time an adult cannot be their own guarantor is if they are physically or mentally dependent upon another party.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="H">
+    <term text="HCPCS Code (Healthcare Common Procedure Coding System )">
+      <definition>&lt;P ALIGN="LEFT"&gt;Are numbers assigned to every task and service a medical practitioner may provide to a Medicare patient including medical, surgical and diagnostic services.  These codes are based on CPT codes but are used for billing by facility and medical suppliers (other than medical practictioners). These codes ensure uniformity in billing for facility charges and medical suppliers.&lt;/P&gt;</definition>
+    </term>
+    <term text="Health Insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;  Health insurance is a type of insurance that pays for medical expenses in exchange for premiums. &lt;/P&gt;</definition>
+    </term>
+    <term text="Healthcare Proxy">
+      <definition>&lt;P ALIGN="LEFT"&gt;A power of attorney that allows an agent to make health care decisions in the event that the primary individual is incapable of executing such decisions.&lt;/P&gt;</definition>
+    </term>
+    <term text="HealthPay 24">
+      <definition>&lt;P ALIGN="LEFT"&gt;Software used by NewYork Presbyterian to facilitate collection of monies via cash, check, credit card or debit card at the point of service.&lt;/P&gt;</definition>
+    </term>
+    <term text="Hosted software">
+      <definition>&lt;P ALIGN="LEFT"&gt;Software application that can be used directly from the Internet. There is no need to download and install the application. This is as opposed to installed software.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="I">
+    <term text="ICD-9 Diagnosis Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;International Classification of Diseases version 9. A three to five digit code used to describe a patient&amp;apos;s medical symptom, condition, or malady.&lt;/P&gt;</definition>
+    </term>
+    <term text="ID band">
+      <definition>&lt;P ALIGN="LEFT"&gt;An armband that contains the patient&amp;apos;s name and MRN and is used to identify the patient prior to receiving any care, treatment, or service.&lt;/P&gt;</definition>
+    </term>
+    <term text="Index">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a function in CareMedic Isuite that connects a scanned image to the patient’s account information in  the Eagle Billing System.&lt;/P&gt;</definition>
+    </term>
+    <term text="Inlier">
+      <definition>&lt;P ALIGN="LEFT"&gt;Amount of reimbursement defined by the low and high stay trim points of a DRG.&lt;/P&gt;</definition>
+    </term>
+    <term text="Insurance verification unit">
+      <definition>&lt;P ALIGN="LEFT"&gt;The process of obtaining verbal or written confirmation of required coverage from an insurance company.&lt;/P&gt;</definition>
+    </term>
+    <term text="Intake room">
+      <definition>&lt;P ALIGN="LEFT"&gt;A private area used to interview patients during registration.&lt;/P&gt;</definition>
+    </term>
+    <term text="ISuite">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is part of the CareMedic online system that manages scanned documents. Isuite&amp;apos;s Document Search is a key resource for reviewing all documents related to an account.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="J"/>
+  <letter text="K"/>
+  <letter text="L">
+    <term text="Leakage">
+      <definition>&lt;P ALIGN="LEFT"&gt; Lost revenue due to errors that occur along the revenue cycle.&lt;/P&gt;</definition>
+    </term>
+    <term text="Line Item">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a unit of information that represents services that were provided, shown on a separate line in the charges section of a UB 04.&lt;/P&gt;</definition>
+    </term>
+    <term text="Log In form">
+      <definition>&lt;P ALIGN="LEFT"&gt;A form completed when a patient presents to collect necessary visit specific information.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="M">
+    <term text="Medicaid">
+      <definition>&lt;P ALIGN="LEFT"&gt;The United States health program for eligible individuals and families with low incomes and resources.&lt;/P&gt;</definition>
+    </term>
+    <term text="Medical record number (MRN)">
+      <definition>&lt;P ALIGN="LEFT"&gt;A hospital specific and unique patient identifier used to aggregate medical information for all visits and all services provided within the facility.&lt;/P&gt;</definition>
+    </term>
+    <term text="Medicare Rights form">
+      <definition>&lt;P ALIGN="LEFT"&gt;A hospital specific and unique patient identifier used to aggregate medical information for all visits and all services provided within the facility.&lt;/P&gt;</definition>
+    </term>
+    <term text="Medicare Rights form"/>
+    <term text="Modifier Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A two-character code added to a CPT or HCPCS procedure code to indicate the means by which a performed service has been altered by some specific circumstance but has not changed in its basic definition. Modifiers are most commonly used to to identify separately billable physician and hospital components of a service, services to be considered distinct from normally inclusive services, services performed on specific body sites, mlutiple sites, multiple sides, or by multiple physicians, and canceled, incomplete, or discontinued services.&lt;/P&gt;</definition>
+    </term>
+    <term text="MSP">
+      <definition>&lt;P ALIGN="LEFT"&gt;Medicare Secondary Payer&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="N">
+    <term text="Name plate">
+      <definition>&lt;P ALIGN="LEFT"&gt;A card embossed with the patient’s name, date of birth, medical record number, and serial number that is used to create the ID band.&lt;/P&gt;</definition>
+    </term>
+    <term text="name plate (Milstein)">
+      <definition>&lt;P ALIGN="LEFT"&gt;A card embossed with the patient’s name, date of birth, medical record number, and serial number that is used to create the ID band.&lt;/P&gt;</definition>
+    </term>
+    <term text="National Provider Identifier">
+      <definition>&lt;P ALIGN="LEFT"&gt;A unique 10-digit identification number issued to identify health care providers in the United States by the Centers for Medicare and Medicaid Services (CMS).&lt;/P&gt;</definition>
+    </term>
+    <term text="No Fault">
+      <definition>&lt;P ALIGN="LEFT"&gt;A system in which each driver&amp;apos;s auto insurance coverage pays for injuries and damage, no matter who caused the accident (used in some states).&lt;/P&gt;</definition>
+    </term>
+    <term text="Notice of Privacy Practices Acknowledgement (NOPP)">
+      <definition>&lt;P ALIGN="LEFT"&gt;A notice to the individual of the uses and disclosures of protected health information and the individual’s rights and the covered entity’s legal duties with respect to protected health information.&lt;/P&gt;</definition>
+    </term>
+    <term text="NPI (National Provider Identifier)">
+      <definition>&lt;P ALIGN="LEFT"&gt;A unique 10-digit identification number issued to identify health care providers in the United States by the Centers for Medicare and Medicaid Services (CMS).&lt;/P&gt;</definition>
+    </term>
+    <term text="Nursing Station">
+      <definition>&lt;P ALIGN="LEFT"&gt;An ADT system code used to define the inpatient unit to which a patient has been assigned.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="O">
+    <term text="Omnipro">
+      <definition>&lt;P ALIGN="LEFT"&gt;Omnipro&lt;/P&gt;</definition>
+    </term>
+    <term text="On Account">
+      <definition>&lt;P ALIGN="LEFT"&gt;A term used for payments that are posted to the account level of instead of the claim/invoice level of patient&amp;apos;s encounter in the billing system.&lt;/P&gt;</definition>
+    </term>
+    <term text="On Trac">
+      <definition>&lt;P ALIGN="LEFT"&gt;is a software tool for revenue cycle that is used to manage NYP&amp;apos;s inpatient and ambulatory care account receivables pre-billing.  Primarily used by NYP&amp;apos;s  Admitting departments.&lt;/P&gt;</definition>
+    </term>
+    <term text="On Trac">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a software tool for revenue cycle that is used to manage NYP&amp;apos;s inpatient and ambulatory care account receivables pre-billing. Primarily used by NYP&amp;apos;s Admitting departments.&lt;/P&gt;</definition>
+    </term>
+    <term text="Online Request Portal">
+      <definition>&lt;P ALIGN="LEFT"&gt;An electronic e-mail inbox used to store physician requests for reserving operating room time.&lt;/P&gt;</definition>
+    </term>
+    <term text="OR Schedule">
+      <definition>&lt;P ALIGN="LEFT"&gt;A schedule that lists all scheduled surgeries by facility, resource unit, and surgery date.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="P">
+    <term text="Participating Provider">
+      <definition>&lt;P ALIGN="LEFT"&gt;Providers who provide the insured members of the group a substantial discount below their regularly-charged rates.&lt;/P&gt;</definition>
+    </term>
+    <term text="Patient Encounter form">
+      <definition>&lt;P ALIGN="LEFT"&gt;The primary service capture vehicle for hopsital based clinics. A typical encounter form will include a set of ICD-9 diagnosis codes to capture a patient&amp;apos;s medical condition and a set of CPT4 codes to capture procedures performed. The form is generally completed by the treating physician and the selected codes are subsequently entered into the hospital&amp;apos;s information system by clinic staff as part of the procedure for closing a visit.&lt;/P&gt;</definition>
+    </term>
+    <term text="Patient Information Notice">
+      <definition>&lt;P ALIGN="LEFT"&gt;A document administered to patients acknowledging that he or she has received and/or completed forms included in the admissions packet.&lt;/P&gt;</definition>
+    </term>
+    <term text="Patient’s Bill of Rights">
+      <definition>&lt;P ALIGN="LEFT"&gt;A statement of the rights to which patients are entitled as recipients of medical care.&lt;/P&gt;</definition>
+    </term>
+    <term text="Per Diem">
+      <definition>&lt;P ALIGN="LEFT"&gt;An inpatient reimbursement term to indicate an amount paid &amp;quot;per day&amp;quot; of service.&lt;/P&gt;</definition>
+    </term>
+    <term text="Payment Variance">
+      <definition>&lt;P ALIGN="LEFT"&gt;A discrepancy between the expected reimburement rate and the paid amount.&lt;/P&gt;</definition>
+    </term>
+    <term text="Phlebotomist">
+      <definition>&lt;P ALIGN="LEFT"&gt;The individual that draws specimens for analysis.&lt;/P&gt;</definition>
+    </term>
+    <term text="Physician Billing System">
+      <definition>&lt;P ALIGN="LEFT"&gt;Any application used to accrue professional services administered to patients (e.g. - IDX)&lt;/P&gt;</definition>
+    </term>
+    <term text="Policy Holder">
+      <definition>&lt;P ALIGN="LEFT"&gt;This is the person who holds, or pays for, an insurance policy. This person may have other family members, such as a spouse or children, included under their policy.&lt;/P&gt;</definition>
+    </term>
+    <term text="Policy Number">
+      <definition>&lt;P ALIGN="LEFT"&gt;The primary data element identifying and associating a patient with an insurance carrier and policy.&lt;/P&gt;</definition>
+    </term>
+    <term text="Portal To Entry">
+      <definition>&lt;P ALIGN="LEFT"&gt;A phrase used to describe the method or location by which a patient enters the hospital to receive treatment.&lt;/P&gt;</definition>
+    </term>
+    <term text="Pre-admission testing">
+      <definition>&lt;P ALIGN="LEFT"&gt;Completed prior to some scheduled procedures, including surgery. The patient&amp;apos;s health history is obtained, a physical assessment is completed and other assessments, such as lab work, are performed.&lt;/P&gt;</definition>
+    </term>
+    <term text="Pre-certification">
+      <definition>&lt;P ALIGN="LEFT"&gt;The process of notification and approval of elective inpatient admission and identified out patient services before the service is rendered.&lt;/P&gt;</definition>
+    </term>
+    <term text="Preadmission  Review">
+      <definition>&lt;P ALIGN="LEFT"&gt;The practice of reviewing claims for inpatient admission prior to the patient entering the hospital in order to asure that the admission is medically necessary.&lt;/P&gt;</definition>
+    </term>
+    <term text="Preauthorization">
+      <definition>&lt;P ALIGN="LEFT"&gt;A method of monitoring and controlling utilization by evaluating the need for medical service prior to it being performed.&lt;/P&gt;</definition>
+    </term>
+    <term text="Predetermination">
+      <definition>&lt;P ALIGN="LEFT"&gt;An administrative procedure whereby a health provider submits a treatment plan to a third party before treatment is initiated. The third party usually reviews the treatment plam, monitoring one or more of the following: patient&amp;apos;s eligibility, covered service, amounts payable, application of appropriate deductibles, copayment factors and maximums. Under some programs, for instance, predetermination by the third party is required when covered charges are expected to exceed a certain amount. Similar processes: pre-authorization- pre-certification, pre-estimate of corst, pre-treatment estimate prior authorization.&lt;/P&gt;</definition>
+    </term>
+    <term text="Prescription">
+      <definition>&lt;P ALIGN="LEFT"&gt;A document completed by ordering physicians requesting laboratory tests.&lt;/P&gt;</definition>
+    </term>
+    <term text="Primary Care  ">
+      <definition>&lt;P ALIGN="LEFT"&gt;(a) Basic or general health care usually rendered by general practitioners, family practitioners, internists, obstetricians and pediatricians -- often referred to as primary care practitioners. (b) Professional and related services administered by an internist, family practitioner, obstetrician-gynecologist or pediatrician in an ambulatory setting, with referral to secondary care specialists, as necessary.&lt;/P&gt;</definition>
+    </term>
+    <term text="Primary Care Physician PCP">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is the doctor who is chosen by an individual to provide continuous medical care.&lt;/P&gt;</definition>
+    </term>
+    <term text="Primary Insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is the first health policy in a series that is responsible for payment of medical claims as dictated by coordination of benefits rules. &lt;/P&gt;</definition>
+    </term>
+    <term text="Private Room Certification">
+      <definition>&lt;P ALIGN="LEFT"&gt;A form used when a patient or a patient&amp;apos;s family member requests a private room for a hospital admission.  The completion of the form, which must be signed by the patient or family member prior to placement, informs the patient that he/she may be liable for the charges associated with the service.  Private rooms are not typically covered by insurance.&lt;/P&gt;</definition>
+    </term>
+    <term text="Procedure">
+      <definition>&lt;P ALIGN="LEFT"&gt;A surgical operation or technique.&lt;/P&gt;</definition>
+    </term>
+    <term text="Provider Tax ID">
+      <definition>&lt;P ALIGN="LEFT"&gt;A Tax Identification Number or TIN is an identifying number used for tax purposes in the United States. It may be assigned by the Social Security Administration or by the IRS (Internal Revenue Service).&lt;/P&gt;</definition>
+    </term>
+    <term text="Product Line">
+      <definition>&lt;P ALIGN="LEFT"&gt;Specific type of health care benefit plan structure offered by an insurance carrier that defines among other things, allowable provider networks, out of pocket requirements, and service authorization requirements. Also known as plan type. &lt;/P&gt;&lt;P ALIGN="LEFT"&gt;&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="Q">
+    <term text="Questionnaire">
+      <definition>&lt;P ALIGN="LEFT"&gt;A document used to gather patient information and medical history at point of clinic visit.&lt;/P&gt;</definition>
+    </term>
+    <term text="Quick registration">
+      <definition>&lt;P ALIGN="LEFT"&gt;An ED specific activity included in the registration procedure involving a set of steps that ensures a patient is quickly checked in so that he or she can be medically screened before receiving more comprehensive emergency care.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="R">
+    <term text="Reason for Visit form">
+      <definition>&lt;P ALIGN="LEFT"&gt;Reason for Visit form&lt;/P&gt;</definition>
+    </term>
+    <term text="Referring Physician">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a physician who directs or sends a patient to an appropriate specialist or professional group for diagnosis, treatment or supply, and definitive treatment.&lt;/P&gt;</definition>
+    </term>
+    <term text="Registration Area">
+      <definition>&lt;P ALIGN="LEFT"&gt;An ADT system code used to identify the location of the service being provided (e.g. - OCBWAY - Broadway Clinic).&lt;/P&gt;</definition>
+    </term>
+    <term text="Related party records">
+      <definition>&lt;P ALIGN="LEFT"&gt;A database element in NYP&amp;apos;s admission-discharge-transfer (ADT) system (Eagle) that associates key personal, demographic, and insurance information to a specific patient profile. Related Parties contains the following sections: Related Parties, Name Alias, Employment, Temporary Address, Insurance ID, Insurance Contacts, Previous Stay Information, Accident Data, Therapy Specs, Medicare Data, Medicaid Data. Related party records are attached to specific visit encounters from the patient&amp;apos;s master profile through a system action known as linking.&lt;/P&gt;</definition>
+    </term>
+    <term text="Remittance">
+      <definition>&lt;P ALIGN="LEFT"&gt;The process of sending money to remove an obligation. This is most often done through an electronic network, wire transfer or mail. The term also refers to the amount of money being sent to remove the obligation.&lt;/P&gt;</definition>
+    </term>
+    <term text="Requisition">
+      <definition>&lt;P ALIGN="LEFT"&gt;A document completed by ordering physicians requesting certain tests, procedures, exams, or drugs.&lt;/P&gt;</definition>
+    </term>
+    <term text="Resident">
+      <definition>&lt;P ALIGN="LEFT"&gt;A person who has received a medical degree and who practices medicine under the supervision of fully licensed physicians, usually in a clinic or hospital.&lt;/P&gt;</definition>
+    </term>
+    <term text="Revenue Code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A unique four-digit code that is used in hospital billing to identify the category of a service.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="S">
+    <term text="Scheduling system">
+      <definition>&lt;P ALIGN="LEFT"&gt;A technology application used to book patient visits for a physician and/or procedure. NYP employs multiple scheduling systems across diferent service lines including MSM and PHS (Operating Room), Cadence, Centricity, and Soarian (Outpatient Clinic), and IDX (Radiology).&lt;/P&gt;</definition>
+    </term>
+    <term text="Secondary Insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is the second health insurance policy in a series that is responsible for payment of medical claims as dictated by coordination of benefits rules.&lt;/P&gt;</definition>
+    </term>
+    <term text="Serial number">
+      <definition>&lt;P ALIGN="LEFT"&gt;A number that is linked to a patient’s specific visit date.&lt;/P&gt;</definition>
+    </term>
+    <term text="Service authorization">
+      <definition>&lt;P ALIGN="LEFT"&gt;Confirmation that the patient&amp;apos;s insurance carrier will authorize and cover all or part of the service.&lt;/P&gt;</definition>
+    </term>
+    <term text="Service Intensity Weight (SIW)">
+      <definition>&lt;P ALIGN="LEFT"&gt;A relative value assigned to a diagnostic related group (DRG) that defines the amount of resource required to treat the condition.&lt;/P&gt;</definition>
+    </term>
+    <term text="Situation Response Techniques SRT">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a written policy and procedure guideline for denial processing in Patient Financial Services.&lt;/P&gt;</definition>
+    </term>
+    <term text="Sliding scale code">
+      <definition>&lt;P ALIGN="LEFT"&gt;A code in the hospital&amp;apos;s ADT system (Eagle) that corresponds to a specific reimbursement amount for a patient encounter. Sliding scale codes apply only to those patients identified as &amp;quot;self-pay&amp;quot; and is essential to the execution of NYP&amp;apos;s financial assistance policy.&lt;/P&gt;</definition>
+    </term>
+    <term text="Specimens">
+      <definition>&lt;P ALIGN="LEFT"&gt;A bit of tissue or blood or urine that is taken for diagnostic purposes.&lt;/P&gt;</definition>
+    </term>
+    <term text="Stop Loss Insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;Insuring with a third party against a risk which an MCO cannot financially and totally manage. For example, a comprehensive health plan can self-insure hospitalization costs with one or more insurance carriers.&lt;/P&gt;</definition>
+    </term>
+    <term text="Sunrise Record Manager">
+      <definition>&lt;P ALIGN="LEFT"&gt;A workflow managment application used by NYP&amp;apos;s Health Information Management departments to monitor operational activities such as chart completion, deficiency analysis, and patient indexing.&lt;/P&gt;</definition>
+    </term>
+    <term text="Supplementary Insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is a type of insurance policy designed to cover the gaps that regular health insurance may have due to deductibles and co-payments. Supplemental health insurance covers additional expenses that regular insurance doesn’t cover, such as lost income and living expenses.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="T">
+    <term text="Temperature">
+      <definition>&lt;P ALIGN="LEFT"&gt;Temperature - pending definition?&lt;/P&gt;</definition>
+    </term>
+    <term text="Tertiary Care">
+      <definition>&lt;P ALIGN="LEFT"&gt;Services provided by highly specialized providers such as neurosurgeons, thoracic surgeons and intensive care units. These services often require highly sophisticated technology and facilities.&lt;/P&gt;</definition>
+    </term>
+    <term text="Tertiary Insurance">
+      <definition>&lt;P ALIGN="LEFT"&gt;Is the third health insurance policy responsible for payment of medical claims in a series dictated by coordination of benefits rules.&lt;/P&gt;</definition>
+    </term>
+    <term text="Third Party Administrator (TPA)">
+      <definition>&lt;P ALIGN="LEFT"&gt;Organizations with expertise and capability to administer all or a portion of the claims process.&lt;/P&gt;</definition>
+    </term>
+    <term text="threshold">
+      <definition>&lt;P ALIGN="LEFT"&gt;Designated worklist claim dollar amount.&lt;/P&gt;</definition>
+    </term>
+    <term text="Tickle Time">
+      <definition>&lt;P ALIGN="LEFT"&gt;The tickle days are the number of days before an account will reappear on a worklist for follow up. &lt;/P&gt;</definition>
+    </term>
+    <term text="Trac">
+      <definition>&lt;P ALIGN="LEFT"&gt;Trac - is a software tool for revenue cycle that is used to manage NYP&amp;apos;s account receivable system post billing. Primarily used as work drivers in the Patient Financial Services departments at NYP.&lt;/P&gt;</definition>
+    </term>
+    <term text="Triage">
+      <definition>&lt;P ALIGN="LEFT"&gt;The process of prioritizing patients based on the severity of their condition so as to treat as many as possible when resources are insufficient for all to be treated immediately.&lt;/P&gt;</definition>
+    </term>
+    <term text="Triage nurse">
+      <definition>&lt;P ALIGN="LEFT"&gt;A nurse responsible for medically screening and prioritizing patients based on the severity of their condition.&lt;/P&gt;</definition>
+    </term>
+    <term text="Trim Point">
+      <definition>&lt;P ALIGN="LEFT"&gt;The range of days that define the acceptable length of stay for an inpatient service as defined by a DRG. &lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="U">
+    <term text="UB04 Uniform Billing Claim Form">
+      <definition>&lt;P ALIGN="LEFT"&gt;The healthcare industry standard billing form used by institutional healthcare providers for submission of medical service claims to third party insurance carriers.&lt;/P&gt;</definition>
+    </term>
+    <term text="Universal Booking Sheet">
+      <definition>&lt;P ALIGN="LEFT"&gt;A document that is filled out by physician’s to request OR time. This document contains all of the information necessary to book an appointment about the patient and the procedure. Its information is entered into the scheduling system by the scheduler.&lt;/P&gt;</definition>
+    </term>
+    <term text="Universal Protocol Sheet (Radiology)"/>
+    <term text="Usual, Customary and Reasonable (UCR)">
+      <definition>&lt;P ALIGN="LEFT"&gt;Health insurance plans that pay a physician&amp;apos;s full charge if it is reasonable and does not exceed his or her usual charges and the amount customarily charged for the service by other physicians in the area.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="V"/>
+  <letter text="W">
+    <term text="Workers' Compensation">
+      <definition>&lt;P ALIGN="LEFT"&gt;Workers&amp;apos; compensation is insurance that provides cash benefits and/or coverage for professional treatment of work related injury, illness, or disability.&lt;/P&gt;</definition>
+    </term>
+    <term text="Work list">
+      <definition>&lt;P ALIGN="LEFT"&gt;Any tool or medium that defines an inventory of work for which one is responsible to complete. Work lists may be paper based such as a report or a batch of forms, or it may be automated and electronic such as an on line work queue.&lt;/P&gt;</definition>
+    </term>
+  </letter>
+  <letter text="X"/>
+  <letter text="Y"/>
+  <letter text="Z"/>
+</glossary>

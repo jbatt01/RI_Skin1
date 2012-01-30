@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sco styleName="Deep Black" saturationPercent="50" persIndex="false" narration="true" glossary="true" audioButton="true" exitButton="true" noLink="false" pageNumbering="true" include_question_cnt="false" indexTooltip="true" transition="none" tranDirection="right" transitionTime="1" completion="None" pageComplete="false" autoNavigation="false" backgroundColor="#FFFFFF" buttonTextColor="#FFFFFF" titleFieldColor="#FFFFFF" footerColor="#FDA03C" indexHeader="#FFFFFF" glossaryColor="#FDA03C" indexColor="#FDA03C" headerColor="#FDA03C" indexTopicColor="#000000" indexLinkColor="#000000" glossaryHeader="#CC0000" buttonColor="#FDAB53" indexLinkOverColor="#FFFFFF" title="Beef">
+  <topics>
+    <page title="Video Page - AutoPlay Center" pType="Video" mediaPath="media/video/Bruce.flv" mediaPos="center middle" autoPlayMedia="true" file="swfs/templateswfs/rapidintake_video/ri_video_pg.swf" loadPercentage="20" fpsec="12" isTocEntry="true" nonNavPage="false" mediaFormat="FLV"/>
+    <page title="Video Page - No AutoPlay Center" pType="Video" mediaPath="media/video/Bruce.flv" mediaPos="center middle" autoPlayMedia="false" file="swfs/templateswfs/rapidintake_video/ri_video_pg.swf" loadPercentage="20" fpsec="12" isTocEntry="true" nonNavPage="false" mediaFormat="FLV"/>
+    <page title="Video Text Page Left" pType="Text and Video" mediaPath="media/video/Bruce.flv" mobileMediaPath="https://real.rapidintake.com/sample_video.mp4" mediaPos="left" autoPlayMedia="true" nType="none" file="swfs/templateswfs/rapidintake_textvideo/ri_textvideo_pg.swf" loadPercentage="20" fpsec="12" isTocEntry="true" nonNavPage="false" captionhead="Video" captiontext="This is teh video Text">
+      <pText>&lt;P ALIGN="LEFT"&gt;Example Text.&lt;/P&gt;</pText>
+    </page>
+    <page title="Video Text Page Right" pType="Text and Video" mediaPath="media/video/Bruce.flv" mobileMediaPath="https://real.rapidintake.com/sample_video.mp4" mediaPos="right and center" autoPlayMedia="true" nType="none" file="swfs/templateswfs/rapidintake_textvideo/ri_textvideo_pg.swf" loadPercentage="20" fpsec="12" isTocEntry="true" nonNavPage="false" captionhead="Caption" captiontext="Caption Text">
+      <pText>&lt;P ALIGN="LEFT"&gt;Video Text Page&lt;/P&gt;</pText>
+    </page>
+  </topics>
+</sco>

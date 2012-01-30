@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+<quiz showresults="true" quizmode="review" intro="intro" numquestions="7" randomize="false" recordStatus="none" incReview="true" incRetakeButton="true" id="quiz-1">
+		<feedback provide="true" tries="0"></feedback>
+		<introText heading="Review Time"><![CDATA[<P ALIGN="LEFT"><FONT   COLOR="#0033CC" LETTERSPACING="0" KERNING="0">[This quiz  template allows you to quickly create a review quiz or practice test. The questions are NOT tracked, the learner is given 2 tries on each question, feedback is set up for each question so you can provide help when they get it wrong and reinforcement when right, there is a quiz review at the end, and they can retake the test if they would like.]</FONT></P><P ALIGN="LEFT"><FONT    LETTERSPACING="0" KERNING="0"></FONT></P><P ALIGN="LEFT"><FONT    LETTERSPACING="0" KERNING="0">Take this quiz to see how much you&apos;ve learned. Don&apos;t worry, your answers are not tracked and you can retake it as many times as you like. You have two chances to answer each question, with a hint between each try.</FONT></P>]]></introText>
+		<question id="mc-1" tracking="false" weight="1" overrideFeedback="false" qtype="MCH">
+			<questionText><![CDATA[<P ALIGN="LEFT"><FONT    LETTERSPACING="0" KERNING="0">[1. Enter the question text here]</FONT></P>]]></questionText>
+			<distractors randomize="true">
+				<distractor correct="true" wrap="false" iFeedback="Feed1"><![CDATA[q1]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed2"><![CDATA[q2]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed3"><![CDATA[q3]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed4"><![CDATA[q4]]></distractor>
+			</distractors>
+		</question>
+		<question id="mc-2" tracking="false" weight="1" overrideFeedback="false" qtype="MCH">
+			<questionText><![CDATA[<P ALIGN="LEFT"><FONT    LETTERSPACING="0" KERNING="0">[2. Enter the question text here]</FONT></P>]]></questionText>
+			<distractors randomize="true">
+				<distractor correct="true" wrap="false" iFeedback="Feed1"><![CDATA[q1]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed2"><![CDATA[q2]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed3"><![CDATA[q3]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed4"><![CDATA[q4]]></distractor>
+			</distractors>
+		</question>
+		<question id="mc-3" tracking="false" weight="1" overrideFeedback="false" qtype="MCH">
+			<questionText><![CDATA[<P ALIGN="LEFT"><FONT    LETTERSPACING="0" KERNING="0">[3. Enter the question text here]</FONT></P>]]></questionText>
+			<distractors randomize="true">
+				<distractor correct="true" wrap="false" iFeedback="Feed1"><![CDATA[q1]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed2"><![CDATA[q2]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed3"><![CDATA[q3]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed4"><![CDATA[q4]]></distractor>
+			</distractors>
+		</question>
+		<question id="mc-4" tracking="false" weight="1" overrideFeedback="false" qtype="MCH">
+			<questionText><![CDATA[<P ALIGN="LEFT"><FONT    LETTERSPACING="0" KERNING="0">[4. Enter the question text here]</FONT></P>]]></questionText>
+			<distractors randomize="true">
+				<distractor correct="true" wrap="false" iFeedback="Feed1"><![CDATA[q1]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed2"><![CDATA[q2]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed3"><![CDATA[q3]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed4"><![CDATA[q4]]></distractor>
+			</distractors>
+		</question>
+		<question id="mc-5" tracking="false" weight="1" overrideFeedback="false" qtype="MCH">
+			<questionText><![CDATA[<P ALIGN="LEFT"><FONT    LETTERSPACING="0" KERNING="0">[5. Enter the question text here]</FONT></P>]]></questionText>
+			<distractors randomize="true">
+				<distractor correct="true" wrap="false" iFeedback="Feed1"><![CDATA[q1]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed2"><![CDATA[q2]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed3"><![CDATA[q3]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed4"><![CDATA[q4]]></distractor>
+			</distractors>
+		</question>
+		<question id="mc-6" tracking="false" weight="1" overrideFeedback="false" qtype="MCH">
+			<questionText><![CDATA[<P ALIGN="LEFT"><FONT    LETTERSPACING="0" KERNING="0">[6. Enter the question text here]</FONT></P>]]></questionText>
+			<distractors randomize="true">
+				<distractor correct="true" wrap="false" iFeedback="Feed1"><![CDATA[q1]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed2"><![CDATA[q2]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed3"><![CDATA[q3]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed4"><![CDATA[q4]]></distractor>
+			</distractors>
+		</question>
+		<question id="mc-7" tracking="false" weight="1" overrideFeedback="false" qtype="MCH">
+			<questionText><![CDATA[<P ALIGN="LEFT"><FONT    LETTERSPACING="0" KERNING="0">[7. Enter the question text here]</FONT></P>]]></questionText>
+			<distractors randomize="true">
+				<distractor correct="true" wrap="false" iFeedback="Feed1"><![CDATA[q1]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed2"><![CDATA[q2]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed3"><![CDATA[q3]]></distractor>
+				<distractor correct="false" wrap="false" iFeedback="Feed4"><![CDATA[q4]]></distractor>
+			</distractors>
+		</question>
+				
+	</quiz>
+	</questions>

@@ -1,0 +1,57 @@
+.note {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color:#999999;
+}
+
+.h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color:#333333;
+}
+
+.pageText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#666666;
+}
+
+.term {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color:#222222;
+	text-align:center;
+}
+
+.definition {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#222222;
+}
+
+.target {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#222222;
+}
+
+.targetCorrect {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color:#00CC00;
+}
+
+.targetWrong {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color:#FF0000;
+}
+
+.defHead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#CCCCCC;
+}
