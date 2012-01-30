@@ -7,6 +7,13 @@ Flash Companion, Copyright 2004, 2005, 2006, 2008 Rapid Intake, Inc.
 	Modifications
 */
 
+//==================================================================================//
+//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+import com.greensock.*;
+import com.greensock.easing.*;
+//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+//==================================================================================//
+
 
 function showProps( objTest )
 {
@@ -69,6 +76,18 @@ function update_hoimage_question(){
 					
 					mclListener1.onLoadInit = function(mc:MovieClip)
 					{
+						
+						//==================================================================================//
+						//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+						
+						imageInit(mc);
+						
+						//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+						//==================================================================================//
+						
+						
+						
+						
 						//onPress functionality
 						mc.onPress = function() 
 						{
@@ -79,7 +98,17 @@ function update_hoimage_question(){
 								router.setComponentState(router.Assets.ControlButton, true);
 								router.setComponentState(router.Assets.ResetButton, true);
 								router.setFeedback(1);
-								var qObj:Object  = _parent.hotobjectimage;
+								
+								//==================================================================================//
+								//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+								
+								var qObj:Object  = _parent._parent.hotobjectimage;
+								
+								//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+								//==================================================================================//
+								
+								
+								
 								this.hilite = new Color(this);
 
 								var transform = new Object();
@@ -117,12 +146,21 @@ function update_hoimage_question(){
 								}
 								
 							}
-						}
+						}						
 					}
 
 					var imgLoc:String = next_distractor_xmlnode.attributes.filepath;
 					if (imgLoc !== undefined){
-						picture_mcl1.loadClip(imgLoc,this["HotObjectI"+i]);//.image_mc);
+						
+						//==================================================================================//
+						//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+						
+						picture_mcl1.loadClip(imgLoc,this["HotObjectI"+i].holder_mc);
+						
+						//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+						//==================================================================================//
+						
+						
 					}
 					//trace("hotobject: " + this["HotObjectI"+j].image_mc)
 					//tempObj["Distractor_Label" + i] = next_distractor_xmlnode.firstChild.nodeValue;
@@ -167,18 +205,33 @@ function update_hoimage_question(){
 				picture_mcl1.addListener(mclListener1);
 				
 				mclListener1.onLoadInit = function(mc:MovieClip)
-				{
+				{					
+
+					//==================================================================================//
+					//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+					
+					imageInit(mc);
+					
+					//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+					//==================================================================================//
+					
+					
 					//onPress functionality
 					mc.onPress = function() 
 					{
 						//trace("pressed")
-						var router = SessionArray[session];
+						var router = SessionArray[session];		
 						if(router.scoreFlag != true){
 
 							router.setComponentState(router.Assets.ControlButton, true);
 							router.setComponentState(router.Assets.ResetButton, true);
 							router.setFeedback(1);
-							var qObj:Object  = _parent.hotobjectimage;
+							
+							//==================================================================================//
+							//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//							
+							var qObj:Object  = _parent._parent.hotobjectimage;
+							//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+							//==================================================================================//
 							this.hilite = new Color(this);
 
 							var transform = new Object();
@@ -221,7 +274,15 @@ function update_hoimage_question(){
 
 				var imgLoc:String = response_xmlnode.attributes.filepath;
 				if (imgLoc !== undefined){
-					picture_mcl1.loadClip(imgLoc,this["HotObjectI"+j]);//.image_mc);
+					
+					//==================================================================================//
+					//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//							
+					
+					picture_mcl1.loadClip(imgLoc,this["HotObjectI"+j].holder_mc);
+					
+					//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//							
+					//==================================================================================//
+					
 				}
 				
 				//tempObj["Distractor_Label" + j] = response_xmlnode.firstChild.nodeValue;
@@ -235,3 +296,160 @@ function update_hoimage_question(){
 		}
 	}	
 }
+
+
+
+
+
+//==================================================================================//
+//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+
+function imageInit(mc)
+{
+	mc.forceSmoothing = true;	
+
+	var wr = mc._width/mc._parent.dummy_mc._width;
+	var hr = mc._height/mc._parent.dummy_mc._height;
+	
+	if(wr>hr)
+	{
+		//limit W		
+		mc._width = mc._parent.dummy_mc._width;
+		mc._yscale = mc._xscale;		
+		
+		//center in Y
+		var posY = mc._parent.dummy_mc._height-mc._height			
+		mc._y = posY/2;
+	}
+	else
+	{
+		//limit H		
+		mc._height = mc._parent.dummy_mc._height;
+		mc._xscale = mc._yscale;
+		
+		//center in X			
+		var posX = mc._parent.dummy_mc._width-mc._width		
+		mc._x = posX/2;
+	}
+	
+	mc._parent.zoom_btn._x = mc._x+mc._width;
+	mc._parent.zoom_btn._y = mc._y+mc._height;	
+	
+	
+	mc._parent.zoom_btn.onRollOver = function(){ this.gotoAndStop("over")};
+	mc._parent.zoom_btn.onRollOut = function(){ this.gotoAndStop("out")};
+	
+	mc._parent.zoom_btn.onRelease = zoomIn;
+	mc._parent.zoom_btn._visible = true;
+
+	mc._parent.zoomOut_btn.onRelease = zoomOut;
+	mc._parent.zoomOut_btn._visible = false;	
+	mc._parent.zoomOut_btn._x = mc._x;
+	mc._parent.zoomOut_btn._y = mc._y;
+	mc._parent.zoomOut_btn._width = mc._width;
+	mc._parent.zoomOut_btn._height = mc._height;
+		
+
+	mc._parent.W = mc._parent._width;
+	mc._parent.H = mc._parent._height;
+	mc._parent.X = mc._parent._x;
+	mc._parent.Y = mc._parent._y;		
+
+}
+
+// ZoomIn the loadImage container, based on the playerMain_mc size.
+function zoomIn()
+{	
+	var max = -255000;
+	var max_item;
+	for(var i=1;i<=8;i++)
+	{		
+		if(eval("HotObjectI"+i).getDepth()>max)
+		{
+			max = eval("HotObjectI"+i).getDepth();
+			max_item = eval("HotObjectI"+i);
+		}
+	}	
+	this._parent.swapDepths(locked_mc);
+		
+	this._visible = false;	
+		
+	this._parent.zoomOut_btn._visible = true;
+	
+	locked_mc._alpha = 0;	
+	locked_mc._visible = true
+	locked_mc.resize(playerMain_mc);
+	TweenLite.to(locked_mc, 0.6, {_alpha:100});
+	
+		
+	locked2_mc._alpha = 0;	
+	locked2_mc._visible = true
+	locked2_mc.resize(playerMain_mc);
+	TweenLite.to(locked2_mc, 0.6, {_alpha:100});
+	
+	
+	var wr = playerMain_mc.presentSizeW/this._parent._width;
+	var hr = playerMain_mc.presentSizeH/this._parent._height;
+		
+	var newW, newH, newX, newY, newScale;	
+		
+	if(wr<hr)
+		{
+			//limit W			
+			this._parent._width = playerMain_mc.presentSizeW;
+			this._parent._yscale = this._parent._xscale;			
+			newW = playerMain_mc.presentSizeW;
+			newH = this._parent._height;			
+			var posY = playerMain_mc.presentSizeH-this._parent._height			
+			
+			this._parent._width = this._parent.W;
+			this._parent._height = this._parent.H;
+					
+			//center in Y			
+			newX = 0;
+			newY = posY/2;			
+									
+			TweenLite.to(this._parent,0.6,{_x:newX, _y:newY, _width:newW, _height:newH});
+		}
+		else
+		{
+			//limit H			
+			this._parent._height = playerMain_mc.presentSizeH;
+			this._parent._xscale = this._parent._yscale;			
+			newH = playerMain_mc.presentSizeH;
+			newW = this._parent._width;
+			var posX = playerMain_mc.presentSizeW-this._parent._width;			
+			
+			this._parent._width = this._parent.W;
+			this._parent._height = this._parent.H;
+			
+			//center in X			
+			newY = 0;
+			newX = posX/2;
+	
+			TweenLite.to(this._parent,0.6,{_x:newX, _y:newY, _width:newW, _height:newH});
+		}
+}
+
+
+// ZoomOut the loadImage container, to the original values.
+function zoomOut()
+{		
+	this._parent.swapDepths(locked_mc);
+	
+	this._visible = false;
+	TweenLite.to(this._parent, 0.6, {_x:this._parent.X, _y: this._parent.Y, _width:this._parent.W, _height:this._parent.H});	
+	TweenLite.to(locked_mc, 0.6, {_alpha:0, onComplete:hideLock, onCompleteParams:[this._parent]});			
+	TweenLite.to(locked2_mc, 0.6, {_alpha:0, onComplete:hideLock, onCompleteParams:[null]});	
+}
+
+function hideLock(_param)
+{	
+	_param.zoom_btn._visible = true;
+	locked_mc.hide();
+	
+	locked2_mc.hide();
+}
+
+//==================== CUSTOMIZED CODE: IMAGES ZOOM-IN, ZOOM-OUT ===================//
+//==================================================================================//
