@@ -97,9 +97,7 @@ if (playerMain_mc.useAllMovieClips){
 }
 
 function close_narration() {
-	
-	
-	
+			
 	var moveOut = new Tween(this,"_x",Strong.easeIn,this._x,1050,1,true);			
 	moveOut.onMotionFinished = function()
 	{
@@ -108,8 +106,10 @@ function close_narration() {
 		player._x = player_x;
 		player._y = player_y;
 		playerMain_mc.narrationLoaded = false;
+		playerMain_mc.visibleCC = false;
 	}
-
+	
+	
 
 
 }
